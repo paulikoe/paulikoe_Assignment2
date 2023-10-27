@@ -1,0 +1,13 @@
+Hardware requirements
+-Raspberry Pi 4 with coding environment
+-Breadboard and cables
+-Resistors
+-RGB LED (4-legged)
+-Rotary encoder
+
+Software requirements and used libraries
+-Python 3 and VScode
+-git
+-venv
+-RPi.GPIO
+-time
