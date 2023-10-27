@@ -1,10 +1,10 @@
 # paulikoe_Assignment2
 Pinout:
-# Enkodér:
+Enkodér:
 - clk = 27
 - dt = 17
 - sw = 22
-# LED:
+LED:
 - red = 23
 - green = 24
 - blue = 25
