@@ -3,6 +3,18 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Ignorovat virtuální prostředí
+venv/
+env/
+Virtualenv/
+venv3/
+
+# Ignorovat soubory související s virtuálním prostředím
+.pyc
+*.pyc
+*.pyo
+__pycache__/
+
 # User-specific files
 *.rsuser
 *.suo
