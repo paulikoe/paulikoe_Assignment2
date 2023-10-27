@@ -1,5 +1,6 @@
 # paulikoe_Assignment2
 Pinout:
+
 Enkodér:
 - clk = 27
 - dt = 17
