@@ -1,13 +1,4 @@
-Hardware requirements
--Raspberry Pi 4 with coding environment
--Breadboard and cables
--Resistors
--RGB LED (4-legged)
--Rotary encoder
-
-Software requirements and used libraries
--Python 3 and VScode
--git
--venv
--RPi.GPIO
--time
+py -m pip freeze > requirements.txt
+py -m pip install -r requirements.txt
+pip install pipreqs
+pipreqs /path/to/paulikoe_assignment2.py
